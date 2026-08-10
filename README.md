@@ -9,11 +9,12 @@
 ### Co-Founder & CEO, DevNex Innovation
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4169E1&center=false&vCenter=true&width=500&lines=Building+DevNex+Innovation;Websites+%7C+Web+Apps+%7C+Mobile+Apps+%7C+Meta+Ads;Python+%7C+SQL+%7C+Flutter+%7C+React+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4169E1&center=false&vCenter=true&width=520&lines=Building+DevNex+Innovation;Websites+%7C+Web+Apps+%7C+Mobile+Apps+%7C+Meta+Ads;Python+%7C+SQL+%7C+Flutter+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Faseeh65&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Faseeh65?label=FOLLOWERS&style=for-the-badge&color=4169E1" />
+<img src="https://img.shields.io/github/stars/Faseeh65?label=STARS&style=for-the-badge&color=FFB13B" />
 
 </td>
 </tr>
@@ -21,86 +22,72 @@
 
 <br/>
 
-<br/>
+## About Me
 
-## 👤 Who I Am
+Co-Founder and CEO at **DevNex Innovation**, a software house building websites, web apps, mobile apps, and performance marketing (Meta Ads) for clients across the US, UK, UAE, Canada, and Australia. BSCS graduate (2022–2026) with a background in applied ML from my Final Year Project on crop disease detection.
 
-```typescript
-const faseeh = {
-  title: "Co-Founder & CEO, DevNex Innovation",
-  stack: ["Python", "SQL", "Flutter", "React", "Next.js"],
-  launchedProjects: [
-    "PixelLift-AI",
-    "Dev-Nex",
-    "plant-pulse_backend",
-    "CodeAlpha-Language-Translation-Tool"
-  ],
-  certifications: ["BSCS, University of South Asia (2022–2026)"],
-  status: "Leading Business Development & Growth at DevNex Innovation",
-  openTo: ["Partnerships", "Client Projects", "Networking"]
-};
-```
+**What I do:**
+- Lead Business Development, Social Media, and Lead Generation at DevNex Innovation
+- Plan and run Meta Ads campaigns — funnel modeling, CPL/CAC tracking, WhatsApp Business flows
+- Build with Python, SQL, Flutter, React, and Next.js
+- Shipped an AI-powered crop disease detection app (MobileNetV2, Flutter, FastAPI)
 
 <br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,html,css,js,dart,flutter,react,nextjs,bootstrap&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Launched Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ PixelLift-AI
-Image enhancing app.
+<details>
+<summary><b>🖼️ PixelLift-AI</b> — Image enhancing app</summary>
+<br/>
 
 `Python`
 
 **[Code](https://github.com/Faseeh65/PixelLift-AI)**
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Dev-Nex
-Official website for DevNex Innovation, a software house.
+<details>
+<summary><b>💻 Dev-Nex</b> — Official website for DevNex Innovation</summary>
+<br/>
 
 `Next.js`
 
 **[Live](https://devnexinnovation.online)** · **[Code](https://github.com/Faseeh65/Dev-Nex)**
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 plant-pulse_backend
-AI-based crop disease detection and plant identification backend.
+<details>
+<summary><b>🌾 plant-pulse_backend</b> — AI-based crop disease detection & plant identification</summary>
+<br/>
 
 `Python`
 
 **[Code](https://github.com/Faseeh65/plant-pulse_backend)**
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 CodeAlpha-Language-Translation-Tool
-Real-time language translation web app.
+<details>
+<summary><b>🌐 CodeAlpha-Language-Translation-Tool</b> — Real-time language translation web app</summary>
+<br/>
 
 `React`
 
 **[Code](https://github.com/Faseeh65/CodeAlpha-Language-Trabslation-Tool)**
-
-</td>
-</tr>
-</table>
+</details>
 
 <br/>
 
@@ -108,10 +95,16 @@ Real-time language translation web app.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mr-faseeh-ur-rehman"><img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:faseeeh.65@gmail.com"><img src="https://img.shields.io/badge/Email-4169E1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://devnexinnovation.online"><img src="https://img.shields.io/badge/Website-4169E1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mr-faseeh-ur-rehman"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:faseeeh.65@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://devnexinnovation.online"><img src="https://img.shields.io/badge/WEBSITE-4169E1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+*"Building DevNex Innovation, one client at a time."*
+
+</div>
