@@ -9,7 +9,7 @@
 ### Co-Founder & CEO, DevNex Innovation
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4169E1&center=false&vCenter=true&width=520&lines=Building+DevNex+Innovation;Websites+%7C+Web+Apps+%7C+Mobile+Apps+%7C+Meta+Ads;Python+%7C+SQL+%7C+Flutter+%7C+React+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4169E1&center=false&vCenter=true&width=520&lines=Building+DevNex+growing;Websites+%7C+Web+Apps+%7C+Mobile+Apps+%7C+Meta+Ads;Python+%7C+SQL+%7C+Flutter+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Faseeh65&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS" />
