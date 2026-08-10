@@ -28,7 +28,7 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 
 **What I do:**
 - Lead Business Development, Social Media, and Lead Generation at DevNex Innovation
-- Plan and run Meta Ads campaigns — funnel modeling, CPL/CAC tracking, WhatsApp Business flows
+- Plan and run Meta Ads campaigns funnel modeling, CPL/CAC tracking, WhatsApp Business flows
 - Build with Python, SQL, Flutter, React, and Next.js
 - Shipped an AI-powered crop disease detection app (MobileNetV2, Flutter, FastAPI)
 
@@ -47,7 +47,7 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 ## 🚀 Launched Projects
 
 <details>
-<summary><b>🖼️ PixelLift-AI</b> — Image enhancing app</summary>
+<summary><b>🖼️ PixelLift-AI</b>  Image enhancing app</summary>
 <br/>
 
 `Python`
@@ -56,7 +56,7 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 </details>
 
 <details>
-<summary><b>💻 Dev-Nex</b> — Official website for DevNex Innovation</summary>
+<summary><b>💻 Dev-Nex</b> Official website for DevNex Innovation</summary>
 <br/>
 
 `Next.js`
@@ -65,7 +65,7 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 </details>
 
 <details>
-<summary><b>🌾 plant-pulse_backend</b> — AI-based crop disease detection & plant identification</summary>
+<summary><b>🌾 plant-pulse_backend</b> AI-based crop disease detection & plant identification</summary>
 <br/>
 
 `Python`
@@ -74,7 +74,7 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 </details>
 
 <details>
-<summary><b>🌐 CodeAlpha-Language-Translation-Tool</b> — Real-time language translation web app</summary>
+<summary><b>🌐 CodeAlpha-Language-Translation-Tool</b> Real-time language translation web app</summary>
 <br/>
 
 `React`
