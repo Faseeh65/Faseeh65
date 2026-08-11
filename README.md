@@ -98,6 +98,6 @@ Co-Founder and CEO at **DevNex Innovation**, a software house building websites,
 
 <div align="center">
 
-*"Building DevNex Innovation, one client at a time."*
+"Learning fast, building faster."
 
 </div>
